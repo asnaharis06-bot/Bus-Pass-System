@@ -40,6 +40,6 @@ LinkedIn: https://www.linkedin.com/in/asna-haris-684058319/
 
 
 ## 📄 License
-This project is built as part of the CodeAlpha Internship Program.
+This project is built as part of the CodeAlpha Cloud Computing Internship Program.
 
 Website: https://www.codealpha.tech
